@@ -1,7 +1,5 @@
-Hola, soy Gabriel Caramés, desarrollador web Full-Stack en MERN.
-=============
+<h1>Hola, soy Gabriel Caramés, desarrollador web Full-Stack en MERN. </h1>
 
-<br>
 
 ## Sobre mí
 
