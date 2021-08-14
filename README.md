@@ -1,6 +1,9 @@
+Hola, soy Gabriel Caramés
+=============
+
 ## Sobre mí
 
-Hola, soy ***Gabriel Caramés***, ***desarrollador web***. Me enfoco especialmente en la programación ***Full-Stack*** dentro del entorno ***MERN***.
+Mi nombre es ***Gabriel Caramés***, ***desarrollador web***. Me enfoco especialmente en la programación ***Full-Stack*** dentro del entorno ***MERN***.
 La ***tecnología***, ***programación*** y el ***progreso*** son las cosas que más me apasionan. Soy partidario de que las decisiones se deben realizar correctamente, o directamente no hacerlas. Tengo capacidad de ***liderazgo***, t***rabajo bien en equipo*** y mantengo un perfil tranquilo y proactivo . <br><br>
 Actualmente estoy aprendiendo por mi cuenta, practicando y mejorando diariamente. No me gusta conformarme con lo que tengo, siempre voy a por más. Estoy en una continua búsqueda de ***retos***, ***experiencias*** y ***dificultades***, ya que siempre hay algo nuevo que aprender y optimizar.<br><br>
 Me fascina lo que en general representa el concepto de un equipo y la necesidad de un líder capacitado para orientar al resto de los integrantes hacia una meta en común, ya que por más que cada uno brille por su cuenta, no sirve de nada si no son capaces de adaptarse y colaborar en un mismo grupo. Es una ideología que se aplica a todo ámbito de la vida, tanto empresarial como en la vida cotidiana, amigos y seres queridos.<br><br>
