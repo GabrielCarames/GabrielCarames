@@ -25,6 +25,7 @@ Soy seguidor del mundo de los ***eSports***. Me encantan los ***videojuegos***, 
 [![Node](https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/es/)
 [![Passport](https://img.shields.io/badge/-Passport-black?style=for-the-badge&logo=passport)](http://www.passportjs.org/)
 [![Socket](https://img.shields.io/badge/-Socket-black?style=for-the-badge&logo=Socket.io)](https://socket.io/)
+[![Socket](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
 
 ## Portafolio
 <a href="https://github.com/anuraghazra/convoychat">
