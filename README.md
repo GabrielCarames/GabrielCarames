@@ -7,7 +7,6 @@ Mi nombre es ***Gabriel*** y soy ***desarrollador web***. Me enfoco especialment
 La ***tecnología***, ***programación*** y el ***progreso*** son de las cosas que más me apasionan. Soy partidario de que las decisiones se deben realizar correctamente, o directamente no hacerlas. Tengo capacidad de ***liderazgo***, ***trabajo bien en equipo*** y mantengo un perfil ***tranquilo*** y ***proactivo***. <br><br>
 Actualmente estoy aprendiendo por mi cuenta, ***practicando*** y ***mejorando*** diariamente. No me gusta conformarme con lo que tengo, siempre voy a por más. Estoy en una continua búsqueda de ***retos***, ***experiencias*** y ***dificultades***, porque siempre hay algo nuevo que aprender y optimizar.<br><br>
 Me interesa lo que en general representa el concepto de un ***equipo*** y la necesidad de un ***líder capacitado*** para orientar al resto de los integrantes hacia una ***meta en común***, en donde por más que cada uno brille por su cuenta, no sirve de nada si no son capaces de ***adaptarse*** y ***colaborar*** en un mismo grupo.<br><br>
-Soy seguidor del mundo de los ***eSports***. Me encantan los ***videojuegos***, la ***actividad física***, la ***música*** y principalmente la ***programación***.
 
 <div align="center">
 
