@@ -12,10 +12,11 @@ Actualmente me encuentro en búsqueda de un primer entorno en donde pueda aplica
 ## Tecnologías
 
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React)](https://es.reactjs.org/)
-[![SASS](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass)](https://sass-lang.com/)
-[![CSS](https://img.shields.io/badge/-css-fire?style=for-the-badge&logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux)](https://es.redux.js.org/)
 [![Javascript](https://img.shields.io/badge/-Javascript-critical?style=for-the-badge&logo=Javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Html](https://img.shields.io/badge/-html-violet?style=for-the-badge&logo=html5)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-css-fire?style=for-the-badge&logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![SASS](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase)](https://firebase.com/)
 [![Socket](https://img.shields.io/badge/-Socket-black?style=for-the-badge&logo=Socket.io)](https://socket.io/)
 [![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
