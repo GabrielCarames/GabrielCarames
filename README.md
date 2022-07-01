@@ -18,8 +18,6 @@ Tambien estoy emprendiendo en un negocio de diseño y venta de páginas web: htt
 [![Html](https://img.shields.io/badge/-html-violet?style=for-the-badge&logo=html5)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-css-fire?style=for-the-badge&logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass)](https://sass-lang.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase)](https://firebase.com/)
-[![Socket](https://img.shields.io/badge/-Socket-black?style=for-the-badge&logo=Socket.io)](https://socket.io/)
 [![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
 [![Git](https://img.shields.io/badge/-Git-pink?style=for-the-badge&logo=Git)](https://git-scm.com/)
   
