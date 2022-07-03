@@ -21,23 +21,5 @@ Tambien estoy emprendiendo en un negocio de diseño y venta de páginas web: htt
 [![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
 [![Git](https://img.shields.io/badge/-Git-pink?style=for-the-badge&logo=Git)](https://git-scm.com/)
   
-
-## Portafolio
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcarames&repo=portafolio&theme=midnight-purple" />
-</a>
-
-## Estadísticas
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcarames&show_icons=true&theme=midnight-purple" />
-</a>
-  
-<br><br>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarames&layout=compact&theme=midnight-purple" />
-</a>
-  
 </div>
 
