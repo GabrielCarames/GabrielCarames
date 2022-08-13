@@ -8,6 +8,8 @@ La ***tecnología***, ***programación*** y el ***progreso*** son de las cosas q
 Actualmente me encuentro en búsqueda de un primer entorno en donde pueda aplicar mis ***habilidades como desarrollador***, ***ayudar al resto***, y siempre seguir ***mejorando***.<br><br>
 Tambien estoy emprendiendo en un negocio de diseño y venta de páginas web: https://www.parchespaginasweb.com/
 
+Portafolio personal: https://portafolio-gabrielcarames.vercel.app/
+
 <div align="center">
 
 ## Tecnologías
