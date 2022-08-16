@@ -5,6 +5,7 @@
 
 Mi nombre es ***Gabriel*** y soy ***desarrollador web***. Me enfoco especialmente en la programación ***Front-end*** en React.js<br><br>
 La ***tecnología***, ***programación*** y el ***progreso*** son de las cosas que más me apasionan. Me gusta hacer bien las cosas antes de darlas por finalizadas. Tengo capacidad de ***liderazgo***, ***trabajo bien en equipo*** y mantengo un perfil ***tranquilo*** y ***proactivo***. <br><br>
+Se ***adaptarme*** frente a las diferentes situaciones que se surgan, tengo ***buena predisposición***, aprendo ***rápidamente*** las tareas que se me otorgan, y me ***involucro mucho en mi trabajo***. Me gusta hacer bien las cosas. <br><br>
 Actualmente me encuentro en búsqueda de un primer entorno en donde pueda aplicar mis ***habilidades como desarrollador***, ***ayudar al resto***, y siempre seguir ***mejorando***.<br><br>
 Tambien estoy emprendiendo en un negocio de diseño y venta de páginas web: https://www.parchespaginasweb.com/
 
@@ -22,6 +23,7 @@ Portafolio personal: https://portafolio-gabrielcarames.vercel.app/
 [![SASS](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
 [![Git](https://img.shields.io/badge/-Git-pink?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![Jest](https://img.shields.io/badge/-jest-green?style=for-the-badge&logo=Jest)](https://jestjs.io/)
   
 </div>
 
