@@ -23,7 +23,7 @@ Portafolio personal: https://portafolio-gabrielcarames.vercel.app/
 [![SASS](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=Graphql)](https://graphql.org/)
 [![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-311C87?style=for-the-badge&logo=Apollo%20GraphQL)](https://www.apollographql.com/docs/react/)
-[![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)](https://figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-green?style=for-the-badge&logo=figma)](https://figma.com/)
 [![Git](https://img.shields.io/badge/-Git-pink?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=Jest)](https://jestjs.io/)
   
