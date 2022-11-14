@@ -1,18 +1,15 @@
-<h1>Gabriel Caramés, desarrollador web Front-end. </h1>
+## About me 👋
+
+⚡ My name is Gabriel, and I'm a ***front-end*** developer focused on ***React.js***. <br><br>
+🧑‍💻 I very like to expand my knowledge with every new thing that I learn. I'm currently focused on ***TypeScript***, ***GraphQL***, and ***Apollo Client***. <br><br>
+🛠️ I'm currently building and involved in the ***[@ParchesChat](https://github.com/TeamParches/parches-chat)*** project. <br><br>
 
 
-## Sobre mí
-
-Mi nombre es ***Gabriel*** y soy ***desarrollador web***. Me enfoco especialmente en la programación ***Front-end*** en React.js<br><br>
-La ***tecnología***, ***programación*** y el ***progreso*** son de las cosas que más me apasionan. Me gusta hacer crear productos/proyectos de cálidad, que brinden valor al usuario.
-Se ***adaptarme*** frente a las diferentes situaciones que se surgan, tengo ***buena predisposición***, aprendo ***rápidamente*** las tareas que se me otorgan, y me ***involucro mucho en mi trabajo***. Me gusta hacer bien las cosas. <br><br>
-Actualmente me encuentro en búsqueda de un primer entorno en donde pueda aplicar mis ***habilidades como desarrollador***, ***ayudar al resto***, y siempre seguir ***mejorando***.<br><br>
-
-Portafolio personal: https://portafolio-gabrielcarames.vercel.app/
+Portfolio: https://portafolio-gabrielcarames.vercel.app/
 
 <div align="center">
 
-## Tecnologías
+## Technologies 💫
 
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React)](https://es.reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux)](https://es.redux.js.org/)
