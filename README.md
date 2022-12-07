@@ -1,7 +1,7 @@
 ## About me 👋
 
 ⚡ My name is Gabriel, and I'm a ***front-end*** developer focused on ***React.js***. <br><br>
-🧑‍💻 I very like to expand my knowledge with every new thing that I learn. I'm currently focused on ***TypeScript***, ***GraphQL***, and ***Apollo Client***. <br><br>
+🧑‍💻 I like to expand my knowledge with every new thing that I learn. I'm currently focused on ***TypeScript***, ***GraphQL***, and ***Apollo Client***. <br><br>
 🛠️ I'm currently building and involved in the ***[@ParchesChat](https://github.com/TeamParches/parches-chat)*** project. <br><br>
 
 
