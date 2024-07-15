@@ -1,6 +1,6 @@
 ## About me
 
-⚡ ***Front-end*** developer <br><br>
+⚡ ***Front-end*** developer at Inceptia AI <br><br>
 
 Portfolio: [https://portafolio-gabrielcarames.vercel.app/](https://portafolio-gabrielcarames.vercel.app/)
 
