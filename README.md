@@ -2,7 +2,7 @@
 
 ⚡ ***Front-end*** developer at Inceptia AI <br><br>
 
-Portfolio: [https://portafolio-gabrielcarames.vercel.app/](https://portafolio-gabrielcarames.vercel.app/)
+Portfolio: [https://portafolio-gabrielcarames-projects.vercel.app/](https://portafolio-gabrielcarames-projects.vercel.app/)
 
 <div align="center">
 
